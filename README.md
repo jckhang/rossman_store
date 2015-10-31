@@ -2,11 +2,11 @@
 Research on [Kaggle competition Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/)
 
 ## Data
-store data
+[store data](https://github.com/jckhang/rossman_store/blob/master/data/store.csv)
 
-train data
+[train data](https://github.com/jckhang/rossman_store/blob/master/data/train.csv)
 
-test data
+[test data](https://github.com/jckhang/rossman_store/blob/master/data/test.csv)
 
 ## Process
 
