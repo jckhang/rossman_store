@@ -13,3 +13,8 @@ Research on [Kaggle competition Rossmann Store Sales](https://www.kaggle.com/c/r
 * Seasonal Behavior, Customer number  [Yuqiao Cen]
 * Competetor influence [Zeyu Jiang]
 * Salse Prediction [Yuxiang Zhang, Ding Ma]
+
+
+** Instructions for how to fork and update can be found online, or visit the following website.
+
+https://github.com/jckhang/rossman_store/blob/master/data/store.csv
