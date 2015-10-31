@@ -3,7 +3,9 @@ Research on [Kaggle competition Rossmann Store Sales](https://www.kaggle.com/c/r
 
 ## Data
 store data
+
 train data
+
 test data
 
 ## Process
