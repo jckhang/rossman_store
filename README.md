@@ -8,7 +8,6 @@ test data
 
 ## Process
 
-1. Seasonal Behavior 
-2. Customer number 
-3. Competetor influence
-4. Salse Prediction 
+* Seasonal Behavior, Customer number  [Yuqiao Cen]
+* Competetor influence [Zeyu Jiang]
+* Salse Prediction [Yuxiang Zhang, Ding Ma]
