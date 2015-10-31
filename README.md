@@ -17,4 +17,4 @@ Research on [Kaggle competition Rossmann Store Sales](https://www.kaggle.com/c/r
 
 ** Instructions for how to fork and update can be found online, or visit the following website.
 
-https://github.com/jckhang/rossman_store/blob/master/data/store.csv
+https://help.github.com/articles/syncing-a-fork/
