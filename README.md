@@ -15,6 +15,6 @@ Research on [Kaggle competition Rossmann Store Sales](https://www.kaggle.com/c/r
 * Salse Prediction [Yuxiang Zhang, Ding Ma]
 
 
-** Instructions for how to fork and update can be found online, or visit the following website.
+### Instructions on how to fork and update can be found online, or visit the following website.
 
 https://help.github.com/articles/syncing-a-fork/
